@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @10dotarb (you can call me Abhi!).
-- 👀 I’m interested in computational neuroscience.
+- 👀 I’m interested in computational neuroscience, research and data analysis.
 - 🌱 I’m currently learning python and different subjects in clinical and computational neuroscience.
-- 💞️ I’m looking to collaborate on analysis and modeling based python projects in brain imaging.
+- 💞️ I’m looking to collaborate on analysis and modeling based python projects in brain imaging, and scientific data.
 - 📫 Reach me at 10dotarb@duck.com
